@@ -11,7 +11,7 @@
     "lib"
   ],
   "dependencies": {
-    "gaze": "^0.5.1"
+    "gaze": "git://github.com/rdy/gaze.git#45b325f68c4ad7bd2f4b640d6e3cb41e77fa0079"
   },
   "devDependencies": {
     "mocha": "^2.0.1",
